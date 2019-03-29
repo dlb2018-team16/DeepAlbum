@@ -1,5 +1,7 @@
 # Deep Album
 
+![](https://i1.sndcdn.com/artworks-000512079066-m9zut3-t500x500.jpg)
+
 ## What's about
 
 We are Team 16 from Deep Learning JP Basic Course 2018,
