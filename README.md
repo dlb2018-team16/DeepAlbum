@@ -1,9 +1,9 @@
-# {TBD} :thinking_face:
+# Deep Album
 
 ## What's about
 
 We are Team 16 from Deep Learning JP Basic Course 2018,
-You can listen to generated melodies like a "somebody song" by AI
+You can listen to composed melodies like a "somebody song" by AI
 
 * [https://soundcloud.com/yurufuwa/sets/deep-album](https://soundcloud.com/yurufuwa/sets/deep-album)
 * [Survey & Experiment](https://github.com/dlb2018-team16/NeuralStyleTransfer/issues/1)
